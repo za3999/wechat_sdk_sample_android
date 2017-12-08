@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\android\test\WeChatSDK_sample_Android_5.0.2\wechat_sdk_sample_android\app\src\main\assets"/><source path="E:\android\test\WeChatSDK_sample_Android_5.0.2\wechat_sdk_sample_android\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\android\test\WeChatSDK_sample_Android_5.0.2\wechat_sdk_sample_android\app\src\debug\assets"/></dataSet></merger>

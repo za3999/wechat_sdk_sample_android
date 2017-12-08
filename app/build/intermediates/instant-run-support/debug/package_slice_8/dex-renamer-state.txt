@@ -1,4 +1,0 @@
-#Fri Dec 08 14:48:47 CST 2017
-base.0=E\:\\android\\test\\WeChatSDK_sample_Android_5.0.2\\wechat_sdk_sample_android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
-renamed.0=classes.dex
-file.0=E\:\\android\\test\\WeChatSDK_sample_Android_5.0.2\\wechat_sdk_sample_android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
